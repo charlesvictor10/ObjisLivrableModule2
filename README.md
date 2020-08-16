@@ -5,7 +5,6 @@ Le TP gestion client nous permet de comprendre les points suivants:
 - les nouveautés java 8 (expression lamba, généricité)
 - les exceptions
 - la sérialisation
-- RMI
 - Multithread
 - Module Java 9
 
