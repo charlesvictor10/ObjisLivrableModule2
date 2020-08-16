@@ -2,10 +2,8 @@
 Le TP gestion client nous permet de comprendre les points suivants:
 -  la notion de classe abstraite
 - la notion d'interface
-- les nouveautés java 8 (expression lamba, généricité)
 - les exceptions
 - la sérialisation
-- Multithread
 - Module Java 9
 
 Veuillez suivre les indications suivantes:
